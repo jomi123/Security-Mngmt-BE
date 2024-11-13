@@ -1,0 +1,6 @@
+@Preventyon_HostAddress = http://localhost:5056
+
+GET {{Preventyon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
